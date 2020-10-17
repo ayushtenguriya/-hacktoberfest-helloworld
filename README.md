@@ -1,2 +1,2 @@
 # -hacktoberfest-helloworld
-first repo
+first repository
